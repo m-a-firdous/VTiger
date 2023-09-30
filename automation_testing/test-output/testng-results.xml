@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-22T07:13:01 IST" name="Suite" finished-at="2023-08-22T07:16:04 IST" duration-ms="183469">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateCampaignWithProduct.CreateCampaignWithProduct()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" name="CreateCampaignWithProduct" class="TEST.CreateCampaignWithProduct"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2023-08-22T07:13:01 IST" name="Test1" finished-at="2023-08-22T07:14:50 IST" duration-ms="109005">
+      <class name="TEST.CreateCampaign">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:13:01 IST" name="beforeTest" finished-at="2023-08-22T07:13:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:13:01 IST" name="beforeClass" finished-at="2023-08-22T07:13:06 IST" duration-ms="5817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:13:06 IST" name="beforeMethod" finished-at="2023-08-22T07:13:36 IST" duration-ms="29507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CreateCampaign()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:13:36 IST" name="CreateCampaign" finished-at="2023-08-22T07:14:44 IST" duration-ms="68232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaign -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:14:44 IST" name="afterMethod" finished-at="2023-08-22T07:14:49 IST" duration-ms="4403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:14:49 IST" name="afterClass" finished-at="2023-08-22T07:14:50 IST" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TEST.CreateCampaign@70ed52de]" started-at="2023-08-22T07:14:50 IST" name="afterTest" finished-at="2023-08-22T07:14:50 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TEST.CreateCampaign -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-08-22T07:14:50 IST" name="Test2" finished-at="2023-08-22T07:16:04 IST" duration-ms="74392">
+      <class name="TEST.CreateCampaignWithProduct">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:13:00 IST" name="beforeSuite" finished-at="2023-08-22T07:13:01 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:14:50 IST" name="beforeTest" finished-at="2023-08-22T07:14:50 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:14:50 IST" name="beforeClass" finished-at="2023-08-22T07:14:55 IST" duration-ms="5068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:14:55 IST" name="beforeMethod" finished-at="2023-08-22T07:15:03 IST" duration-ms="8364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CreateCampaignWithProduct()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:15:03 IST" name="CreateCampaignWithProduct" finished-at="2023-08-22T07:16:01 IST" duration-ms="57785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaignWithProduct -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:16:01 IST" name="afterMethod" finished-at="2023-08-22T07:16:03 IST" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:16:03 IST" name="afterClass" finished-at="2023-08-22T07:16:04 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:16:04 IST" name="afterTest" finished-at="2023-08-22T07:16:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:TEST.CreateCampaignWithProduct@2ab4bc72]" started-at="2023-08-22T07:16:04 IST" name="afterSuite" finished-at="2023-08-22T07:16:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TEST.CreateCampaignWithProduct -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
